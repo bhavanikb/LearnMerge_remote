@@ -1,0 +1,4 @@
+total 0
+drwxr-xr-x 1 bhkariya 1049089 0 Apr  9 17:17 ./
+drwxr-xr-x 1 bhkariya 1049089 0 Apr  9 17:16 ../
+-rw-r--r-- 1 bhkariya 1049089 0 Apr  9 17:17 three.txt
